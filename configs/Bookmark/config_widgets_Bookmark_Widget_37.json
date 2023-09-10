@@ -1,0 +1,193 @@
+{
+  "bookmarks2D": [
+    {
+      "displayName": "Memorial Student Center",
+      "name": "Memorial Student Center",
+      "extent": {
+        "xmin": -10728197.461465508,
+        "ymin": 3581885.106690137,
+        "xmax": -10723037.962056264,
+        "ymax": 3584751.495250827,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -10728197.461465508,
+                "ymin": 3581885.106690137,
+                "xmax": -10723037.962056264,
+                "ymax": 3584751.495250827,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img_widgets_Bookmark_Widget_37_1_1694362514610.jpeg",
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "18a7d042d5f-layer-260": {
+          "selected": true
+        },
+        "18a7d03c1e1-layer-259": {
+          "selected": true
+        },
+        "18a7ca313c7-layer-156_0": {
+          "selected": true
+        },
+        "18a7fb03ef0-layer-11": {
+          "selected": true
+        },
+        "18a7faf64c7-layer-10": {
+          "selected": true
+        },
+        "18a7faf1230-layer-7": {
+          "selected": true
+        },
+        "18a7faf0948-layer-6": {
+          "selected": true
+        }
+      },
+      "_uID": 9,
+      "isSaveExtent": true
+    },
+    {
+      "displayName": "Kyle Field",
+      "name": "Kyle Field",
+      "extent": {
+        "xmin": -10728197.461465508,
+        "ymin": 3581885.106690137,
+        "xmax": -10723037.962056264,
+        "ymax": 3584751.495250827,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -10728197.461465508,
+                "ymin": 3581885.106690137,
+                "xmax": -10723037.962056264,
+                "ymax": 3584751.495250827,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img_widgets_Bookmark_Widget_37_2_1694362514617.jpeg",
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "18a7d042d5f-layer-260": {
+          "selected": true
+        },
+        "18a7d03c1e1-layer-259": {
+          "selected": true
+        },
+        "18a7ca313c7-layer-156_0": {
+          "selected": true
+        },
+        "18a7fb03ef0-layer-11": {
+          "selected": true
+        },
+        "18a7faf64c7-layer-10": {
+          "selected": true
+        },
+        "18a7faf1230-layer-7": {
+          "selected": true
+        },
+        "18a7faf0948-layer-6": {
+          "selected": true
+        }
+      },
+      "_uID": 10,
+      "isSaveExtent": true
+    },
+    {
+      "displayName": "Dollar Slice Club ",
+      "name": "Dollar Slice Club ",
+      "extent": {
+        "xmin": -10728197.461465508,
+        "ymin": 3581885.106690137,
+        "xmax": -10723037.962056264,
+        "ymax": 3584751.495250827,
+        "spatialReference": {
+          "wkid": 102100
+        },
+        "cache": {
+          "_parts": [
+            {
+              "extent": {
+                "xmin": -10728197.461465508,
+                "ymin": 3581885.106690137,
+                "xmax": -10723037.962056264,
+                "ymax": 3584751.495250827,
+                "spatialReference": {
+                  "wkid": 102100
+                }
+              },
+              "frameIds": [
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "thumbnail": "${appPath}/configs/Bookmark/base64Img_widgets_Bookmark_Widget_37_3_1694362514627.jpeg",
+      "isInWebmap": false,
+      "isSaveLayers": false,
+      "layerOptions": {
+        "18a7d042d5f-layer-260": {
+          "selected": true
+        },
+        "18a7d03c1e1-layer-259": {
+          "selected": true
+        },
+        "18a7ca313c7-layer-156_0": {
+          "selected": true
+        },
+        "18a7fb03ef0-layer-11": {
+          "selected": true
+        },
+        "18a7faf64c7-layer-10": {
+          "selected": true
+        },
+        "18a7faf1230-layer-7": {
+          "selected": true
+        },
+        "18a7faf0948-layer-6": {
+          "selected": true
+        }
+      },
+      "_uID": 11,
+      "isSaveExtent": true
+    }
+  ],
+  "bookmarks3D": [],
+  "layout": {
+    "cards": true,
+    "list": true,
+    "defaultMode": "cards"
+  },
+  "editable": true,
+  "syncMode": {
+    "webmap": true,
+    "custom": true
+  },
+  "isSaveLayerVisibility": false
+}

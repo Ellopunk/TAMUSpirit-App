@@ -1,0 +1,84 @@
+{
+  "showTitle": true,
+  "showBasemap": false,
+  "showLegend": true,
+  "expandAllLayersByDefault": false,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "SetVisibilityRange": true,
+    "EnableOrDisablePopup": true,
+    "ControlLabels": false,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": false,
+    "DescriptionOrShowItemDetailsOrDownload": false
+  },
+  "layerOptions": {
+    "18a7fb03ef0-layer-11": {
+      "display": true
+    },
+    "18a7fb03ef0-layer-11_3": {
+      "display": true
+    },
+    "18a7fb03ef0-layer-11_2": {
+      "display": true
+    },
+    "18a7fb03ef0-layer-11_1": {
+      "display": true
+    },
+    "18a7fb03ef0-layer-11_0": {
+      "display": true
+    },
+    "18a7faf64c7-layer-10": {
+      "display": true
+    },
+    "18a7faf64c7-layer-10_3": {
+      "display": true
+    },
+    "18a7faf64c7-layer-10_2": {
+      "display": true
+    },
+    "18a7faf64c7-layer-10_1": {
+      "display": true
+    },
+    "18a7faf64c7-layer-10_0": {
+      "display": true
+    },
+    "18a7faf1230-layer-7": {
+      "display": true
+    },
+    "18a7faf1230-layer-7_3": {
+      "display": true
+    },
+    "18a7faf1230-layer-7_2": {
+      "display": true
+    },
+    "18a7faf1230-layer-7_1": {
+      "display": true
+    },
+    "18a7faf1230-layer-7_0": {
+      "display": true
+    },
+    "18a7faf0948-layer-6": {
+      "display": true
+    },
+    "18a7faf0948-layer-6_3": {
+      "display": true
+    },
+    "18a7faf0948-layer-6_2": {
+      "display": true
+    },
+    "18a7faf0948-layer-6_1": {
+      "display": true
+    },
+    "18a7faf0948-layer-6_0": {
+      "display": true
+    },
+    "18a7d042d5f-layer-260": {
+      "display": false
+    },
+    "18a7d03c1e1-layer-259": {
+      "display": false
+    }
+  }
+}
