@@ -426,9 +426,12 @@
   "isWebTier": false,
   "httpProxy": {
     "useProxy": true,
-    "alwaysUseProxy": false,
-    "url": "",
-    "rules": []
+    "alwaysUseProxy": true,
+    "url": "http://gallery.chn.esri.com/arcgis/sharing/proxy",
+    "rules": [{
+      "urlPrefix": "https://tamu.maps.arcgis.com/",
+      "proxyUrl": "resource-proxy-1.0/DotNet/proxy.ashx"
+    }]
   },
   "dataSource": {
     "dataSources": {},
